@@ -1,5 +1,5 @@
 import bokeh
-#from bokeh.charts import Scatter, output_file, save
+from bokeh.charts import Scatter, output_file, save
 from numpy import *
 import numpy as np
 from bokeh.plotting import figure, output_file, save
@@ -45,3 +45,11 @@ q.line(xvalue, y2value, line_width=2, color = "green", legend = "GDP")
 output_file("plot2.html")
 
 save(q)
+
+df = {'CO2':yvalue,'GDP':y2value}
+
+r = Scatter(df, x = 'CO2', y = 'GDP', title = "GDP vs CO2", xlabel = "CO2 in Kilo-tons", ylabel = "GDP in Millions USD")
+
+output_file("plot3.html")
+
+save(r)
