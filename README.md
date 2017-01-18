@@ -15,3 +15,5 @@
 **plot4.html** is the co2 emmission of several countries
 
 **plot5.html** is the gdp of several countries
+
+![Image of plot3](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/plot3.png)
