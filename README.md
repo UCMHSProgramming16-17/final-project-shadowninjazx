@@ -17,3 +17,7 @@
 **plot5.html** is the gdp of several countries
 
 ![Image of plot3](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/plot3.png)
+
+![Image of plot4](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/plot4.png)
+
+![Image of plot5](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/plot5.png)
