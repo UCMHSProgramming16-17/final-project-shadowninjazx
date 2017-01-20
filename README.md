@@ -6,6 +6,10 @@
 
 **visual2.py** is the second version of plotting program that works more efficiently
 
+**visual3.py** is the area graph code
+
+**area.html** is the graph of stacked area of co2 emmission
+
 **plot.html** is a global co2 emmissions graph
 
 **plot2.html** is a global co2 vs million GDP graph
