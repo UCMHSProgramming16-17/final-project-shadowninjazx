@@ -14,6 +14,8 @@ GDP and CO2 emmission has a positive correlation during the past 30 years global
 
 **area.html** is the graph of stacked area of co2 emmission
 
+**area2.html** is the graph of stacked area of GDP
+
 **plot.html** is a global co2 emmissions graph
 
 **plot2.html** is a global co2 vs million GDP graph
@@ -39,3 +41,6 @@ GDP and CO2 emmission has a positive correlation during the past 30 years global
 ![Image of plot5](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/plot5.png)
 
 ![Image of plot5](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/area.png)
+
+![Image of plot5](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/area2.png)
+
