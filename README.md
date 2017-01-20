@@ -2,7 +2,7 @@
 
 **General Analysis:**
 
-GDP and CO2 emmission has a positive correlation during the past 30 years globally.
+GDP and CO2 emmission has a positive correlation during the past 30 years globally for developing nations. But in developed nations, GDP increases while CO2 emmission remains flat.
 
 **visual.py** is the first version of python plotting program
 

@@ -38,3 +38,29 @@ output_file("area.html")
 
 save(area1)
 #Save graph
+
+gdp = pd.read_csv('gdpr.csv')
+#Read csv with pandas
+
+gdp = gdp[gdp.China != 0]
+#Delete rows with 0 values
+
+gdp[cols] = gdp[cols].applymap(np.int64)
+#Make floats integers
+
+data2 = dict(
+    china=gdp['China'],
+    usa=gdp['United States'],
+    japan=gdp['Japan'],
+)
+#Define dictionary to store three columns of gdp data
+
+area2 = Area(data2, title="Stacked Area Chart of GDP", legend="top_left",
+             stack=True, xlabel='Year Since 1960', ylabel='Million USD')
+#define stacked area graph for gdp
+
+output_file('area2.html')
+#set new output file
+
+save(area2)
+#save new graph
