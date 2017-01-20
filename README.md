@@ -21,3 +21,5 @@
 ![Image of plot4](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/plot4.png)
 
 ![Image of plot5](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/plot5.png)
+
+![Image of plot5](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/area.png)
