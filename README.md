@@ -1,5 +1,9 @@
 **Data Project: CO2 and GDP**
 
+**General Analysis:**
+
+GDP and CO2 emmission has a positive correlation during the past 30 years globally in developing nations. However, in US and develoepd nations, CO2 remains flat while GDP increases. 
+
 **visual.py** is the first version of python plotting program
 
 **cleandata.py** is made for the second version of plotting program to purify data
