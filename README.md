@@ -20,6 +20,14 @@
 
 **plot5.html** is the gdp of several countries
 
+**CO2E.csv** is the original csv data of CO2 Emmission
+
+**GDP.csv** is the original csv data of GDP
+
+**co2r.csv** and **gdpr.csv** is the cleaned version of the data with NaN set to 0
+
+**co2re.csv** and **gdpre.csv** is the clearend version of the data with NaN values
+
 ![Image of plot3](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/plot3.png)
 
 ![Image of plot4](https://github.com/UCMHSProgramming16-17/final-project-shadowninjazx/blob/master/plot4.png)
